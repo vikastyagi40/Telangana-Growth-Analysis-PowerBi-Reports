@@ -1,7 +1,7 @@
 
 # Telangana Growth Analysis
 
-Welcome to the "Telangana Growth Analysis" project, part of the Codebasics Challenge #7. This project aims to extract impactful insights and create data-driven storytelling from the data provided by the Telangana government.
+Welcome to the "Telangana Growth Analysis" project, part of the Codebasics Challenge #7. This project aims to extract impactful insights and create data-driven storytelling from the data provided by the Telangana government. Project Link : https://app.powerbi.com/view?r=eyJrIjoiYjM2ODU5MTQtOTg3ZC00ODUzLTk1YWMtODVjYzVjYjhkNzlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Objectives
 
